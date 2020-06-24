@@ -1,5 +1,5 @@
-## Benchmarking with C++
+# Benchmarking with C++
 
-# Timer class
+## Timer class
 
 You can implement the time duration as you wish
